@@ -1,0 +1,2 @@
+Function - it perform some action
+Methods - It also perform some action but it worked based on class object like oops concept
