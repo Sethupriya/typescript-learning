@@ -36,3 +36,5 @@ emp.showEmployeeDetails()
 console.log(emp.name)//accessible
 //console.log(emp.age)//not accessible - Property 'age' is protected and only accessible within class 'Person' and its subclasses.
 //console.log(emp.ssn)//not accessible - Property 'ssn' is private and only accessible within class 'Person'.
+
+export { }
